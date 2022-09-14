@@ -1,0 +1,19 @@
+main{
+    margin-top: -5%;
+}
+.corpo{
+    float: right;
+    width: 100%;
+}
+aside p,h1{
+	text-align:center
+}
+img{
+    display: block;
+    border-radius: 50%;
+    margin: auto;
+}
+figcaption{
+    border:1px dotted blue;
+	text-align:center
+}
